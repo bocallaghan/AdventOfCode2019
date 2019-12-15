@@ -27,7 +27,7 @@ describe("AOC-1B -> calculate the amount of fuel required for the given payload 
 
         tests = [
             [14, 2],
-            [1969, 965],
+            [1969, 966],
             [100756, 50346]
         ];
 
