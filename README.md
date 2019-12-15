@@ -1,5 +1,5 @@
 # AdventOfCode2019
-Advent of code 2019 solutions - however far I get or have time for :)
+Advent of code 2019 solutions - however far I get or have time for this year.
 
 ## Day1
 
