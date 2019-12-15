@@ -1,0 +1,26 @@
+{
+  "name": "aoc2019",
+  "version": "1.0.0",
+  "description": "Callaghan001 working through the Advent of Code puzzles for 2019",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bocallaghan/AdventOfCode2019.git"
+  },
+  "author": "@Callaghan001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bocallaghan/AdventOfCode2019/issues"
+  },
+  "homepage": "https://github.com/bocallaghan/AdventOfCode2019#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
